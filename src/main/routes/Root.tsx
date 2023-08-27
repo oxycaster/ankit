@@ -40,7 +40,7 @@ export const Root = () => {
                     </Typography>
                 </Grid>
                 <Grid item xs={12}>
-                    <Typography variant="h3" gutterBottom>
+                    <Typography variant="h4" gutterBottom>
                         {a.生薬名}
                     </Typography>
                 </Grid>
