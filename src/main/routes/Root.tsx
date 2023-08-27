@@ -1,8 +1,7 @@
 import React from 'react';
-import {BottomNavigation, BottomNavigationAction, Box, Button, Container, Grid, Paper, Typography} from "@mui/material";
+import {BottomNavigation, BottomNavigationAction, Container, Grid, Paper, Typography} from "@mui/material";
 import {all} from "./shoyaku";
 import {ArrowBack, ArrowForward, Check} from "@mui/icons-material";
-
 
 
 const shuffleArr = (src: number[]): number[] => {
